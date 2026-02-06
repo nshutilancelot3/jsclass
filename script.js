@@ -40,7 +40,20 @@ document.getElementById("p3").textContent = `are you a student? ${student}`;
 let students = 30;
 
 // students = students + 1;
-students = students / 2;
+//students = students / 2;
+
+//augmented operators- instead of re assigning the variables use;
+//students +=2
+students **=2
+
 console.log(students)
+
+
+//Getting Results 
+
+//let results = 1 + 2 * 3 - 2 ** 2 // in code we start from the left to the right side when operatting this
+let result2  = 12 % 5 + 8 / 2;
+
+console.log(result2)
 
 
