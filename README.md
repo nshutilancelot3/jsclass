@@ -1,0 +1,1 @@
+This is a repository where i teach myself javascript courses
